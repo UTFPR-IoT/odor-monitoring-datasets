@@ -3,7 +3,7 @@
 ### Estrutura padrão dos experimentos
 ```text
 .
-├── nome-do-experimento/
+└── nome-do-experimento/
     ├── README.md
     ├── data/
     │   └── dados-raw.csv
