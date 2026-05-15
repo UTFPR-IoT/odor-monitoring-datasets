@@ -3,7 +3,7 @@
 ## Visão geral
 - __Data:__ 
 - __Local:__ Compostec Toledo.
-- __Objetivo:__ .
+- __Objetivo:__ 
 
 ## Metodologia
 

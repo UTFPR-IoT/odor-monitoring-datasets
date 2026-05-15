@@ -1,8 +1,8 @@
-# Experimento: teste em campo na Estrebaria
+# Experimento: 
 
 ## Visão geral
 - __Data:__ 
-- __Local:__ Estrebaria Toledo.
+- __Local:__ 
 - __Objetivo:__ 
 
 ## Metodologia
@@ -15,8 +15,8 @@
 ```text
 .
 ├── README.md
-├── data/
-│   └── teste-estrebaria-1-fluxo-passivo-equalizado-media.xlsx
+├── datas/
+│   └── semeatech-temperatura-umidade.xlsx
 ├── notebook/
 └── output/
     ├── plot/

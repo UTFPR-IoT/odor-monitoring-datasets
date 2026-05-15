@@ -1,17 +1,27 @@
+# Experimento: teste em laboratório UFMG
+
+## Visão geral
+- __Data:__ 
+- __Local:__ Laboratório UFMG BH.
+- __Objetivo:__ 
+
+## Metodologia
+
+#### Observações
+
+## Resultados
 
 ## Estrutura dos arquivos
 ```text
 .
-├── README.md     
-├── data/
-│   ├── media-alfredo-teste-campo-h2s.csv
-│   ├── media-alfredo-teste-campo-nh3.csv
-│   └── teste-zugam-compostec.xlsx
-│   └── teste-zugam-compostec.csv        # arquivo convertido
+├── README.md
+├── datas/
+│   ├── teste-h2s-2.7ppm.xlsx
+│   ├── teste-h2s-500ppb-cx-7.5L.xlsx
+│   ├── teste-h2s-diluido-bag3L-10ppm.xlsx
+│   └── teste-nitrogenio-nivel-zero.xlsx
 ├── notebook/
-│   ├── media-teste-campo-compostec-h2s.ipynb
-│   └── media-teste-campo-compostec-nh3.ipynb
 └── output/
-        ├── plot/
-        └── processed/
+    ├── plot/
+    └── processed/  
 ```
